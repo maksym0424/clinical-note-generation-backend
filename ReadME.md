@@ -72,7 +72,3 @@ Follow this guide: https://docs.docker.com/engine/install/ubuntu/
 
    Now, Your server will be available at 8000 port.
 
-   *It will run nginx container as well so that backend will be served on https://api.getara.ai or wss://api.getara.ai
-   automatically if you're on the instance that api.getara.ai forwards to.*
-
-   *There are other commands you would need. Please check ```Makefile``` for more available commands*
